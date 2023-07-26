@@ -1,0 +1,5 @@
+com.example.myapplication.test.app-androidTest-0 /Users/darshan/Documents/SimformProject/DemoProject/MyApplication/app/build/generated/res/resValues/androidTest/debug
+com.example.myapplication.test.app-androidTest-1 /Users/darshan/Documents/SimformProject/DemoProject/MyApplication/app/build/generated/res/rs/androidTest/debug
+com.example.myapplication.test.app-mergeDebugAndroidTestResources-2 /Users/darshan/Documents/SimformProject/DemoProject/MyApplication/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.myapplication.test.app-mergeDebugAndroidTestResources-3 /Users/darshan/Documents/SimformProject/DemoProject/MyApplication/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.myapplication.test.app-merged_res-4 /Users/darshan/Documents/SimformProject/DemoProject/MyApplication/app/build/intermediates/merged_res/debugAndroidTest
